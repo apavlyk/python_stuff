@@ -1,1 +1,1 @@
-# python_stuff
+Suite of python scripts for varios aims
