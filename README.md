@@ -1,1 +1,1 @@
-Suite of python scripts for varios aims
+The suite of python scripts for various aims
